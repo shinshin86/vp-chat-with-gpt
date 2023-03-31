@@ -1,0 +1,14 @@
+{
+  "name": "vp-chat-with-gpt",
+  "version": "0.0.1",
+  "description": "VOICEPEAK chat with ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fmt": "deno fmt"
+  },
+  "keywords": [],
+  "author": "shinshin86 <shinshin86npm@gmail.com> (https://github.com/shinshin86)",
+  "license": "MIT"
+}
